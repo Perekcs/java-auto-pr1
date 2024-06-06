@@ -1,0 +1,29 @@
+=========MessageDigest=========
+Used algorithm: MD5
+Entered password: password
+Generated hash: 5F4DCC3B5AA765D61D8327DEB882CF99
+Used algorithm: SHA-256
+Entered password: password
+Generated hash: 5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8
+Used algorithm: SHA-512
+Entered password: password
+Generated hash: B109F3BBBC244EB82441917ED06D618B9008DD09B3BEFD1B5E07394C706A8BB980B1D7785E5976EC049B46DF5F1326AF5A2EA6D103FD07C95385FFAB0CACBC86
+=========SecureRandom=========
+Used algorithm: SHA1PRNG
+Entered password: password
+Generated hash: 2470C0C06DEE42FD1618BB99005ADCA2
+Used algorithm: Windows-PRNG
+Entered password: password
+Generated hash: 7DAE371E98A92A8242AEFE034B42027B
+Used algorithm: DRBG
+Entered password: password
+Generated hash: 0102A263016AC88E9DD012CFDAD6C22F
+=========Right class=========
+CorrectMap:
+Key: CorrectKey: key=1, name='Ivan', Value: First
+Key: CorrectKey: key=2, name='Stepan', Value: Second
+=========Wrong class=========
+
+IncorrectMap:
+Key: WrongHashing: key=1, name='Ivan', Value: First
+Key: WrongHashing: key=2, name='Stepan', Value: Second
